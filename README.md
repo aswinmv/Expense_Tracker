@@ -9,6 +9,16 @@ Expense Tracker --
 Flutter app, integrated with the efficient Hive local database, simplifies expense management for users. With an intuitive interface, users can effortlessly input details like amount, category, date, and notes for their expenses. Leveraging Hive, the app ensures fast and reliable local storage of expense data. Users can categorize expenses, view a comprehensive history, and analyze spending patterns through charts. Search and filtering options provide quick access to specific transactions, while customizable settings cater to individual preferences. Prioritizing data security, the app safeguards sensitive financial information. Optional features like syncing, reminders, and notifications enhance user convenience, making the app a valuable tool for tracking and optimizing personal finances.
 
 UI
+Screen Shots
+
+![image](https://github.com/aswinmv/Expense_Tracker/assets/65582177/980b20f6-d4b0-47ce-a3a3-feb0546f79e4)
+![image](https://github.com/aswinmv/Expense_Tracker/assets/65582177/7b4ea807-9035-45e7-b9b2-1567231fcb3e)
+![image](https://github.com/aswinmv/Expense_Tracker/assets/65582177/f4c80461-7c4e-4dce-8faf-42553e634235)
+![image](https://github.com/aswinmv/Expense_Tracker/assets/65582177/71bada68-c7e5-4395-8715-4b98525875a4)
+![image](https://github.com/aswinmv/Expense_Tracker/assets/65582177/157faf6d-5065-42ad-98db-b9b574573fa5)
+![image](https://github.com/aswinmv/Expense_Tracker/assets/65582177/c7b24676-9466-457a-bf33-965ee6ebd05f)
+
+
 
 ![image](https://github.com/aswinmv/Expense_Tracker/assets/65582177/73450a03-fb0a-4bba-bee9-a0f8e3959e3d)
 
