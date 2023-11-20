@@ -1,11 +1,12 @@
-# expense_tracker
+# Expense_Tracker
 
 A new Flutter project.
 Expense Tracker
 
 About
 
-Expense Tracker Flutter app, integrated with the efficient Hive local database, simplifies expense management for users. With an intuitive interface, users can effortlessly input details like amount, category, date, and notes for their expenses. Leveraging Hive, the app ensures fast and reliable local storage of expense data. Users can categorize expenses, view a comprehensive history, and analyze spending patterns through charts. Search and filtering options provide quick access to specific transactions, while customizable settings cater to individual preferences. Prioritizing data security, the app safeguards sensitive financial information. Optional features like syncing, reminders, and notifications enhance user convenience, making the app a valuable tool for tracking and optimizing personal finances.
+Expense Tracker --
+Flutter app, integrated with the efficient Hive local database, simplifies expense management for users. With an intuitive interface, users can effortlessly input details like amount, category, date, and notes for their expenses. Leveraging Hive, the app ensures fast and reliable local storage of expense data. Users can categorize expenses, view a comprehensive history, and analyze spending patterns through charts. Search and filtering options provide quick access to specific transactions, while customizable settings cater to individual preferences. Prioritizing data security, the app safeguards sensitive financial information. Optional features like syncing, reminders, and notifications enhance user convenience, making the app a valuable tool for tracking and optimizing personal finances.
 
 
 
