@@ -1,4 +1,8 @@
-# Expense_Tracker
+# 
+Track iT
+
+your daily
+Expense_Tracker
 
 A new Flutter project.
 Expense Tracker
