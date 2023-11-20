@@ -10,6 +10,7 @@ Flutter app, integrated with the efficient Hive local database, simplifies expen
 
 UI
 
+![image](https://github.com/aswinmv/Expense_Tracker/assets/65582177/73450a03-fb0a-4bba-bee9-a0f8e3959e3d)
 
 
 ## Getting Started
